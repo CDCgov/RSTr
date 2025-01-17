@@ -1,7 +1,7 @@
 # RSTr <img src="inst/image/hex/RSTr_hexsticker.png" width = "175" height = "200" align="right" /> 
 The Rate Stabilizing Tool R Package (RSTr): Gibbs Samplers for Bayesian Spatiotemporal CAR Models
 
-The RSTr package is a tool that uses Bayesian spatiotemporal models in conjunction with C++ to help you quickly and easily generate spatially smoothed estimates for your spatiotemporal small area data. For the ArcGIS Plugin, visit the [RST ArcGIS Plugin webpage](https://github.com/CEHI-code-repos/RateStabilizingTool2).
+The RSTr package is a tool that uses Bayesian spatiotemporal models in conjunction with C++ to help you quickly and easily generate spatially smoothed estimates for your spatiotemporal small area data. For the ArcGIS Python Toolbox, visit the [RSToolbox](https://github.com/CEHI-code-repos/RateStabilizingToolbox).
 
 ## Installation
 
